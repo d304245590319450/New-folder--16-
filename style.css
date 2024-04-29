@@ -1,0 +1,135 @@
+@media(max-width:480%){
+    body{
+        background-color: red;
+    }
+}
+
+
+body{
+    font-family: "Outfit";
+    background-color: hsl(30, 54%, 90%);
+    
+
+}
+p{
+    font-size: 16px;
+    line-height: 25px;
+    width: 860px;
+    
+    
+}
+.container{
+    margin-left: 250px;
+    background-color: white;
+    width: 70%;
+    border-radius: 50px;
+    
+}
+img{
+    margin-left: 55px;
+    margin-top: 60px;
+    border-radius: 60px;
+    height: 500px;
+    width: 900px;
+}
+.simple{
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+.box{
+    margin-left:50px ;
+    background-color: hsl(330, 100%, 98%);
+    margin-right: 50px;
+    height: 160px;
+}
+h3{
+    margin-left: 30px;
+    padding-top: 20px;
+    color: hsl(330, 56%, 56%);
+}
+li{
+    margin-left: 20px;
+    line-height: 25px;
+    
+}
+.ingredients{
+    margin-left: 50px;
+    line-height: 30px;
+}
+.instrutions{
+    margin-left: 50px;
+    color: hsl(332, 51%, 32%);
+
+}
+.nu{
+    color: hsl(332, 51%, 32%);
+}
+ol{
+    margin-left: -40px;
+    width: 860px;
+    color: hsl(332, 51%, 32%);
+}
+.nutrition{
+    margin-left: 50px;
+    padding-bottom: 10%;
+}
+table{
+    width: 375px;
+   width: 900px;
+    border-collapse: collapse;
+    
+}
+td{
+    padding: 10px 20px;
+    
+}
+tr{
+    border-width: 75%;
+    border-bottom: 1px solid rgb(235, 235, 235) ;
+    width: 100%;
+    
+}
+.h{
+    margin-left: -10px;
+    width: 95%;
+    height: 2px;
+    background-color: rgb(233, 232, 232);
+    border: none;
+}
+.h1{
+   color: hsl(332, 51%, 32%);
+   
+}
+.line{
+    color: rgb(88, 86, 86);
+    font-size: 16px;
+    line-height: 30px;
+    
+}
+h1{
+    color:  black;
+    font-family: serif;
+}
+.tw{
+    color: brown;
+    font-weight: 600;
+}
+.go{
+    color: brown;
+    font-weight: 600;
+}
+.yu{
+    color: brown;
+    font-weight: 600;
+}
+.ts{
+    color: brown;
+    font-weight: 600;
+}
+.in{
+    color: hsl(332, 51%, 32%);;
+}
+ol li::marker{
+    color: hsl(332, 51%, 32%);
+}
