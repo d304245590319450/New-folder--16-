@@ -1,5 +1,7 @@
 @media(max-width:780px){
-    h1{color: red;}
+    h1{
+    color: red;
+    }
 }
 body{
     font-family: "Outfit";
