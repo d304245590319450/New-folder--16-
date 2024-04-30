@@ -17,7 +17,7 @@ p{
 }
 .container{
     background-color: white;
-    width: 100%;
+    width: 70%;
     border-radius: 50px;
     margin-left: auto;
     margin-right: auto;
@@ -70,7 +70,7 @@ ol{
     padding-bottom: 10%;
 }
 table{
-    width: 100%;
+    width: 375px;
    width: 900px;
     border-collapse: collapse;
     
@@ -131,5 +131,11 @@ ol li::marker{
 @media(max-width:780px){
     .h1{
     color:rgb(202, 81, 81);
+    }
+    .container{
+        width: 100%;
+    }
+    table{
+        width: 100%;
     }
 }
