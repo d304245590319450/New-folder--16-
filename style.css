@@ -1,9 +1,10 @@
-@media(max-width:480%){
-    body{
-        background-color: red;
+@media (max-width: 600px) {
+    body {
+      .p{
+        font-size: 12px;
+      }
     }
-}
-
+  }
 
 body{
     font-family: "Outfit";
@@ -70,7 +71,7 @@ li{
 }
 ol{
     margin-left: -40px;
-    width: 860px;
+    width: auto;
     color: hsl(332, 51%, 32%);
 }
 .nutrition{
